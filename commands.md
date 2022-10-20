@@ -9,3 +9,11 @@ set an email address that will be associated with each history marker
 git config --global color.ui auto
 set automatic command line coloring for Git for easy reviewing
 ```
+2. SETUP & INIT
+```
+Configuring user information, initializing and cloning repositories
+git init
+initialize an existing directory as a Git repository
+git clone [url]
+retrieve an entire repository from a hosted location via URL
+```
